@@ -3,7 +3,7 @@ import "../styles/index.css";
 import { Helmet } from "react-helmet"
 
 import NavBar from "../components/NavBar/NavBar";
-import Abv from "../components/ABV/Abv";
+import Abv from "../components/Abv/Abv";
 
 export default function Home() {
   return (
