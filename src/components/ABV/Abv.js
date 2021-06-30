@@ -1,7 +1,7 @@
 import React from 'react'
 import '../../styles/Abv.css'
 
-export default class Abv extends React.Component {
+class Abv extends React.Component {
     constructor(props) {
         super(props);
         this.state = {
