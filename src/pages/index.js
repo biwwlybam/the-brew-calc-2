@@ -3,7 +3,7 @@ import "../styles/index.css";
 import { Helmet } from "react-helmet"
 
 import { Abv } from "../components/Abv/Abv";
-import NavBar from "../components/NavBar/NavBar";
+import NavBar from "/Users/biwwlybam/Desktop/Web-Dev/the-brew-calc/src/components/NavBar/NavBar";
 
 export default function Home() {
   return (
