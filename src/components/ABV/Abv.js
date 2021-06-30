@@ -1,8 +1,7 @@
 import React from 'react'
-import ReactDOM from "react-dom";
 import '../../styles/Abv.css'
 
-class Abv extends React.Component {
+export class Abv extends React.Component {
     constructor(props) {
         super(props);
         this.state = {
@@ -93,6 +92,4 @@ class Abv extends React.Component {
             </div>
         )
     }
-}
-
-export default Abv;
+};
