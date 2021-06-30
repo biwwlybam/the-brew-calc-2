@@ -1,0 +1,27 @@
+.inputOG, .inputFG {
+    display: flex;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.userInputOG {
+    margin-left: 5px;
+}
+
+.userInputFG {
+    margin-left: 8px;
+}
+
+.submitButton {
+    margin-top: 5px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.abvCalculator {
+    background-color: #7395AE;
+    padding: 40px;
+    border-radius: 20px;
+}

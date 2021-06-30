@@ -3,9 +3,8 @@ import "../styles/index.css";
 import { Helmet } from "react-helmet"
 
 import NavBar from "../components/NavBar/NavBar";
-import Abv from "../components/ABV/Abv";
 
-export default function Home() {
+export default function About() {
   return (
     <div className="App">
       <Helmet>
@@ -17,12 +16,11 @@ export default function Home() {
         <NavBar />
       </header>
       <body>
-        <div className="calculatorContainer">
-          <div className="abvCalc">
-            <Abv />
+          <div>
+            <h1>About</h1>
+            <h1>Content Coming Soon</h1>
           </div>
-        </div>
       </body>
-    </div>   
+    </div>
   )
 }
