@@ -1,5 +1,5 @@
 import React from 'react'
-import '../../styles/Abv.css'
+import '../styles/Abv.css'
 
 export class Abv extends React.Component {
     constructor(props) {
