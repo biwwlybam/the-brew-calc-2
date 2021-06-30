@@ -1,4 +1,5 @@
 import React from 'react'
+import ReactDOM from "react-dom";
 import '../../styles/Abv.css'
 
 class Abv extends React.Component {
@@ -93,5 +94,10 @@ class Abv extends React.Component {
         )
     }
 }
+
+ReactDOM.render(
+    <Abv />,
+    document.getElementById('app')
+);
 
 export default Abv;
