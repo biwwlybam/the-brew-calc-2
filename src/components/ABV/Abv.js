@@ -93,3 +93,5 @@ export default class Abv extends React.Component {
         )
     }
 }
+
+export default Abv;
