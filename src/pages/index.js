@@ -2,6 +2,7 @@ import React from "react";
 import "../styles/index.css";
 import { Helmet } from "react-helmet"
 
+import Abv from "../components/Abv/Abv";
 import NavBar from "../components/NavBar/NavBar";
 
 export default function Home() {
