@@ -95,9 +95,4 @@ class Abv extends React.Component {
     }
 }
 
-ReactDOM.render(
-    <Abv />,
-    document.getElementById('app')
-);
-
 export default Abv;
