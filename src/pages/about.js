@@ -18,7 +18,7 @@ export default function About() {
       <body>
           <div>
             <h1>About</h1>
-            <p>Premium content becomes viewable when Nick gets Snapchat again.</p>
+            <p className="aboutParagraph">Premium content becomes viewable when Nick gets Snapchat again.</p>
           </div>
       </body>
     </div>

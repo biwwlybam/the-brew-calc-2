@@ -18,7 +18,10 @@ export default function Faq() {
       <body>
           <div>
             <h1>FAQ</h1>
-            <h1>Content Coming Soon</h1>
+              <h2 className="faqQuestion">What does this website do?</h2>
+                <p className="faqAnswer">The goal of this website is to provide high quality calculators to inform decisions or results in the brewing process.</p>
+              <h2 className="faqQuestion">When will more calculators be available?</h2>
+                <p className="faqAnswer">There are more calculator options in development currently, but there's no telling when a new one will actually get commited.</p>
           </div>
       </body>
     </div>

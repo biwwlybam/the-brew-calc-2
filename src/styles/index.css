@@ -24,6 +24,18 @@ code {
   justify-content: center;
 }
 
-p {
+.aboutParagraph {
+  display: flex;
   justify-content: center;
+}
+
+.faqQuestion {
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-top: 10px;
+}
+
+.faqAnswer {
+  padding-left: 15%;
+  padding-right: 15%;
 }
