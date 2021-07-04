@@ -2,11 +2,16 @@
   background: linear-gradient(to top, #ffffff 0%, #b1a296 100%);
 }
 
+html, body {
+  overflow-x: hidden;
+}
+
 body {
   margin: 0;
   font-family: 'Oswald', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  position: relative;
 }
 
 code {
