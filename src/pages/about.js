@@ -18,7 +18,7 @@ export default function About() {
       <body>
           <div>
             <h1>About</h1>
-            <p className="aboutParagraph">Premium content becomes viewable when Nick gets Snapchat again.</p>
+            <p className="aboutParagraph">Made for brewers, by brewers. Hopefully all you need is an extremely accurate ABV calculator because that's all we've got (for now)!</p>
           </div>
       </body>
     </div>
