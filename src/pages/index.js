@@ -11,6 +11,8 @@ export default function Home() {
       <Helmet>
         <html lang='en' />
         <meta charSet="utf-8" name='description' content='The Brew Calc' />
+        <meta name="viewport" content="width=device-width, initial-scale = 1.0, 
+maximum-scale=1.0, user-scalable=no" />
         <title>The Brew Calc</title>
       </Helmet>
       <header>
