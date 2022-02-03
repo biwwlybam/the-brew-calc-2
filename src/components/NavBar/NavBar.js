@@ -56,7 +56,7 @@ const MenuLinks = styled.nav`
     text-align: center;
     height: 100vh;
     width: 10%;
-    background: rgba(172,198,217);
+    background: rgba(157,185,205,0.9);
     position: absolute;
     top: 0;
     right: 0;
