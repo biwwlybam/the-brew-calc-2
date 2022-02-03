@@ -6,6 +6,10 @@ html, body {
   overflow-x: hidden;
 }
 
+header {
+  z-index: 99;
+}
+
 body {
   margin: 0;
   font-family: 'Oswald', sans-serif;
