@@ -24,7 +24,7 @@ const MenuIcon = styled.button`
     border: none;
     cursor: pointer;
     outline: none;
-    z-index: 99;
+    z-index: 3;
 
     div {
         width: 1.5rem;
@@ -68,7 +68,6 @@ const MenuLinks = styled.nav`
     @media only screen and (max-width:700px){
         width: 20%
     }
-    z-index: 99;
 
     ul {
         list-style-type: none;
