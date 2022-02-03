@@ -55,13 +55,20 @@ const MenuLinks = styled.nav`
     align-items: center;
     text-align: center;
     height: 100vh;
-    width: 15%;
+    width: 10%;
     background: rgba(115,149,174,0.75);
     position: absolute;
     top: 0;
     right: 0;
     transition: transform 300ms;
     transform: ${({nav}) => (nav ? "translateX(0)" : "translateX(100%)")};
+    @media only screen and (max-width:1400px){
+        width: 15%
+    }
+    @media only screen and (max-width:700px){
+        width: 20%
+    }
+    z-index: 99;
 
     ul {
         list-style-type: none;
