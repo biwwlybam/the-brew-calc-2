@@ -24,7 +24,6 @@ const MenuIcon = styled.button`
     border: none;
     cursor: pointer;
     outline: none;
-    z-index: 5;
 
     div {
         width: 1.5rem;
