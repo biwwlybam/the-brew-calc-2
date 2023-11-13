@@ -1,0 +1,3 @@
+[submodule "path_to_submodule"] 
+  path = ./the-brew-calc-2
+  url = https://github.com/biwwlybam/the-brew-calc-2
